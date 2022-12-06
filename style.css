@@ -1,8 +1,9 @@
 body{
-    background-color: aqua;
+    background-color: blue;
 }
 .header{
     height: 100px;
     width: 100%;
     text-align: center;
+    background-color: aqua;
 }
