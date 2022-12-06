@@ -13,7 +13,7 @@ body{
 .search p{
    display: inline-block;
    margin: 0px;
-   font-size: larger;
+   font-size: x-large;
    font-style: italic;
 }
 .search input{
