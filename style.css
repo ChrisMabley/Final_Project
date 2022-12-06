@@ -1,9 +1,11 @@
 body{
-    background-color: blue;
+    background-color: rgb(153, 233, 240);
+    margin: 0px;
 }
 .header{
     height: 100px;
     width: 100%;
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(20, 81, 211);
+    color: white;
 }
