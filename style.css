@@ -10,7 +10,9 @@ body{
     color: white;
     margin: 0px;
 }
-.search{
-    margin: 0px;
-    float: left;
+.search p{
+   display: inline-block;
+}
+.search input{
+    display: inline-block
 }
