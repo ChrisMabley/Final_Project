@@ -12,7 +12,11 @@ body{
 }
 .search p{
    display: inline-block;
+   margin: 0px;
+   font-size: larger;
+   font-style: italic;
 }
 .search input{
     display: inline-block
+
 }
