@@ -14,8 +14,8 @@ body{
 }
 .header img{
     display: inline-block;
-    height: 60px;
-    width: auto;
+    height: auto;
+    width: 11%;
     margin-top: 20px;
 }
 .search{
