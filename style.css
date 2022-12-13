@@ -29,16 +29,21 @@ body{
 .headleft{
     width: 33%;
     display: inline-block;
+    margin: 0px;
+    background-color: rgb(51, 176, 210);
 }
 .headleft img{
     float: left;
     height: 60px;
     width: auto;
     margin-top: 20px;
+    
 }
 .headright{
     width: 33%;
     display: inline-block;
+    margin: 0px;
+    background-color: rgb(51, 176, 210);
 }
 .headright img{
     float: right;
