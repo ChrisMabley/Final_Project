@@ -10,6 +10,7 @@ body{
     color: white;
     margin: 0px;
     display: inline-block;
+    position: fixed;
 }
 .header img{
     display: inline-block;
