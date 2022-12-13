@@ -40,6 +40,8 @@ body{
 .sidebar{
     width: 33%;
     height: auto;
-    margin-top: 100px;
+    top: 100px;
     text-align: center;
+    background-color: white;
+    position: fixed;
 }
