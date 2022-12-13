@@ -4,16 +4,16 @@ body{
 }
 .header{
     height: 100px;
-    width: 100%;
+    width: 33%;
     text-align: center;
     background-color: rgb(51, 176, 210);
     color: white;
     margin: 0px;
+    display: inline-block;
 }
 .header h1{
-    width: 33%;
+    width: 34%;
     height: auto;
-    text-align: center;
     margin: 0px;
 }
 .search p{
@@ -26,8 +26,22 @@ body{
     display: inline-block
 
 }
-.headright img{
+.headleft{
+    width: 33%;
+    display: inline-block;
+}
+.headleft img{
     float: left;
+    height: 60px;
+    width: auto;
+    margin-top: 20px;
+}
+.headright{
+    width: 33%;
+    display: inline-block;
+}
+.headright img{
+    float: right;
     height: 60px;
     width: auto;
     margin-top: 20px;
