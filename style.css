@@ -37,10 +37,9 @@ body{
 .search input{
     display: inline-block
 }
-
-.content{
-    height: 2000px;
-    width: 100%;
-    background-color: white;
-
+.sidebar{
+    width: 33%;
+    height: auto;
+    margin-top: 100px;
+    text-align: center;
 }
