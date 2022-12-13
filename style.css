@@ -11,11 +11,11 @@ body{
     margin: 0px;
     display: inline-block;
 }
-.header h1{
+.search h1{
     height: auto;
     margin: 0px;
-    width: 33%;
-    display: inline-block;
+    width: 100%;
+    display: block;
 }
 .search{
     width: 33%;
