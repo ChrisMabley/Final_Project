@@ -15,9 +15,11 @@ body{
     height: auto;
     margin: 0px;
     width: 33%;
+    display: inline-block;
 }
 .search{
     width: 33%;
+    display: inline-block;
 }
 .search p{
    display: inline-block;
