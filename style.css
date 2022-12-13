@@ -11,15 +11,21 @@ body{
     margin: 0px;
     display: inline-block;
 }
+.header img{
+    display: inline-block;
+    height: 60px;
+    width: auto;
+    margin-top: 20px;
+}
+.search{
+    width: 33%;
+    display: inline-block;
+}
 .search h1{
     height: auto;
     margin: 0px;
     width: 100%;
     display: block;
-}
-.search{
-    width: 33%;
-    display: inline-block;
 }
 .search p{
    display: inline-block;
@@ -30,9 +36,10 @@ body{
 .search input{
     display: inline-block
 }
-.header img{
-    display: inline-block;
-    height: 60px;
-    width: auto;
-    margin-top: 20px;
+
+.content{
+    height: 2000px;
+    width: 100%;
+    background-color: white;
+
 }
