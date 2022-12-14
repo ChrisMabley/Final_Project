@@ -45,7 +45,7 @@ body{
     text-align: center;
     background-color: rgb(73, 146, 242);
     display: table;
-    position: absolute;
+    position: relative;
 }
 .sidebar p{
     font-size: 1.5vw;
@@ -89,7 +89,8 @@ body{
 }
 .content{
     width: 10%;
-    margin-top: 100px;
+    top: 100px;
     height: 2000px;
-    background-color: white
+    background-color: white;
+    float: right;
 }
