@@ -45,7 +45,6 @@ body{
     text-align: center;
     background-color: rgb(73, 146, 242);
     display: table;
-    position: fixed;
 }
 .sidebar p{
     font-size: 1.5vw;
