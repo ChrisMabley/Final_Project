@@ -46,23 +46,27 @@ body{
     position: fixed;
     background-color: rgb(73, 146, 242);
 }
-.sidebar img{
-    width: 40%;
+.sidebar p{
+    font-size: large;
+}
+.pictures{
+    width: 50%;
+    display: inline-block;
+}
+.pictures img{
+    width: 100%;
     height: auto;
     display: block;
     margin-top: 5px;
 }
-.sidebar p{
-    font-size: large;
-}
-.sidebar h6{
-    font-weight: bold;
+.text{
+    width: 50%;
     display: inline-block;
-    
 }
 .content{
     width: 10%;
     height: 2000px;
     float: right;
     background-color: red;
+    margin-top: 100px;
 }
