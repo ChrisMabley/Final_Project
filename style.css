@@ -100,3 +100,7 @@ body{
     display: block;
     position: fixed;
 }
+.charity img{
+    height: 5%;
+    width: auto;
+}
