@@ -27,7 +27,6 @@ body{
     margin: 0px;
     width: 100%;
     display: block;
-    font-size: 50%;
 }
 .search p{
    display: inline-block;
@@ -47,7 +46,7 @@ body{
     position: fixed;
     background-color: rgb(153, 233, 240);
 }
-.sidepar img{
+.sidebar img{
     width: 40%;
     height: auto;
     display: block;
