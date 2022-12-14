@@ -48,7 +48,7 @@ body{
     position: fixed;
 }
 .sidebar p{
-    font-size: 1.3vw;
+    font-size: 1.2vw;
     margin-block-start: 0px;
     margin-block-end: 0px;
     margin-top: 5px;
@@ -63,7 +63,7 @@ body{
     width: 90%;
     height: auto;
     display: block;
-    margin-top: 5px;
+    margin-top: 7px;
     margin-left: 2%;
 }
 .text{
