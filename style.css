@@ -46,6 +46,7 @@ body{
     background-color: rgb(73, 146, 242);
     display: table;
     position: fixed;
+    padding-bottom: 10px;
 }
 .sidebar p{
     font-size: 1.2vw;
