@@ -43,6 +43,7 @@ body{
     padding-top: 100px;
     text-align: center;
     background-color: rgb(73, 146, 242);
+    display: table;
 }
 .sidebar p{
     font-size: large;
@@ -51,7 +52,7 @@ body{
 }
 .pictures{
     width: 50%;
-    display: inline-block;
+    float: left;
     margin: 0px;
 }
 .pictures img{
@@ -62,6 +63,6 @@ body{
 }
 .text{
     width: 50%;
-    display: inline-block;
+    float: left;
     margin: 0px;
 }
