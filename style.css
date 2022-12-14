@@ -40,12 +40,14 @@ body{
 .sidebar{
     width: 33%;
     height: auto;
-    margin-top: 100px;
+    padding-top: 100px;
     text-align: center;
     background-color: rgb(73, 146, 242);
 }
 .sidebar p{
     font-size: large;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
 }
 .pictures{
     width: 50%;
