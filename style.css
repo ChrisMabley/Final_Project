@@ -102,9 +102,10 @@ body{
     height: 20%;
     bottom: 50px;
     right: 50px;
+    width: auto;
 }
 .charity img{
-    height: 4%;
+    height: 80%;
     width: auto;
 }
 .message{
