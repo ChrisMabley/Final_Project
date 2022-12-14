@@ -100,8 +100,9 @@ body{
     display: block;
     position: fixed;
     height: 20%;
-    bottom: 50px;
-    right: 50px;
+    bottom: 0px;
+    right: 0px;
+    width: auto;
 }
 .charity img{
     height: 80%;
@@ -109,11 +110,9 @@ body{
 }
 .message{
     float: left;
-    width: 40%;
     margin-top: 10px;
 }
 .link{
     float: left;
-    width: 20%;
     margin-top: 10px;
 }
