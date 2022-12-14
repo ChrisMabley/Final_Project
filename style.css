@@ -99,6 +99,9 @@ body{
     background-color: white;
     display: block;
     position: fixed;
+    height: 10%;
+    bottom: 0px;
+    right: 0px;
 }
 .charity img{
     height: 4%;
