@@ -55,6 +55,11 @@ body{
 .sidebar p{
     font-size: large;
 }
+.sidebar h6{
+    font-weight: bold;
+    display: inline-block;
+    
+}
 .content{
     width: 10%;
     height: 2000px;
