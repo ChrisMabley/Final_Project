@@ -44,10 +44,14 @@ body{
     text-align: center;
     background-color: white;
     position: fixed;
-    background-color: rgb(153, 233, 240);
+    background-color: rgb(73, 146, 242);
 }
 .sidebar img{
     width: 40%;
     height: auto;
     display: block;
+    margin-top: 5px;
+}
+.sidebar p{
+    font-size: x-large;
 }
