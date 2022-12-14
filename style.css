@@ -110,9 +110,11 @@ body{
 }
 .message{
     float: left;
-    width: 80%;
+    width: 40%;
+    margin-top: 10px;
 }
 .link{
     float: left;
     width: 20%;
+    margin-top: 10px;
 }
