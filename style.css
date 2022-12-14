@@ -99,11 +99,19 @@ body{
     background-color: white;
     display: block;
     position: fixed;
-    height: 10%;
-    bottom: 0px;
-    right: 0px;
+    height: 20%;
+    bottom: 50px;
+    right: 50px;
 }
 .charity img{
     height: 4%;
     width: auto;
+}
+.message{
+    float: left;
+    width: 50%;
+}
+.link{
+    float: left;
+    width: 50%;
 }
