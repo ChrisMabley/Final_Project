@@ -111,6 +111,7 @@ body{
 .message{
     float: left;
     margin-top: 10px;
+    width: 50%;
 }
 .link{
     float: left;
