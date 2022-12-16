@@ -38,6 +38,13 @@ body{
 .search input{
     display: inline-block
 }
+.search button{
+    float: left;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    
+}
 .sidebar{
     width: 30%;
     height: auto;
