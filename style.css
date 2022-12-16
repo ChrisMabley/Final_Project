@@ -39,9 +39,8 @@ body{
     display: inline-block
 }
 .search button{
-    height: 10px;
-    width: 10px;
-    background-color: blue;
+    padding: 10px;
+    background-color: rgb(0, 47, 255);
     color: white;
     border-width: 0px;
     margin: 0px;
@@ -118,7 +117,8 @@ body{
 }
 .message{
     float: left;
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     width: 80%;
     margin-left: 10px;
 }
