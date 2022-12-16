@@ -42,7 +42,8 @@ body{
     padding: 10px;
     background-color: blue;
     color: white;
-    
+    border-width: 0px;
+    margin: 0px;
 }
 .sidebar{
     width: 30%;
