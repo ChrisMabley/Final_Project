@@ -39,7 +39,6 @@ body{
     display: inline-block
 }
 .search button{
-    float: left;
     padding: 10px;
     background-color: blue;
     color: white;
