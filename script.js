@@ -9,11 +9,19 @@ async function search(){
 
 function show(results){
     let tab = 
-        <tr>
-            <th>Species Name</th>
-            <th>Scientific Name</th>
+        `<tr>
+            <th>SpeciesName</th>
+            <th>ScientificName</th>
             <th>Habitat</th>
-            <th>Image Gallery</th>
-        </tr>
-
-    
+            <th>ImageGallery</th>
+        </tr>`;
+    for (let a of results.list){
+        tab += `<tr>
+        <td>${a.SpeciesName}</td>
+        <td>${a.ScientificName}</td>
+        <td>${a.Habitat}</td>
+        <td>${a.ImageGallery}</td>
+        </tr>`;
+    }
+    document.getElementById("fishinfo").innerHTML = tab;
+}
