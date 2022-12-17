@@ -43,7 +43,7 @@ body{
     background-color: rgb(0, 47, 255);
     color: white;
     border-width: 0px;
-    margin: 0px;
+    margin-bottom: 5px;
 }
 .sidebar{
     width: 30%;
